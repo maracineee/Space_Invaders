@@ -1,0 +1,49 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Vec2.cpp
+  Sprite.cpp
+  ResizeEngine.cpp
+  Main.cpp
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Includes\CPlayer.h(100,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Includes\CPlayer.h(101,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Includes\CPlayer.h(102,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Includes\CPlayer.h(103,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ImageFile.cpp
+  CTimer.cpp
+  CPlayer.cpp
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Includes\CPlayer.h(100,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Includes\CPlayer.h(101,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Includes\CPlayer.h(102,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Includes\CPlayer.h(103,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Source\CPlayer.cpp(228,38): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Source\CPlayer.cpp(229,39): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Source\CPlayer.cpp(230,37): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Source\CPlayer.cpp(231,40): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Source\CPlayer.cpp(234,39): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Source\CPlayer.cpp(235,40): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Source\CPlayer.cpp(236,38): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Source\CPlayer.cpp(237,41): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  CGameApp.cpp
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Includes\CPlayer.h(100,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Includes\CPlayer.h(101,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Includes\CPlayer.h(102,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Includes\CPlayer.h(103,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Source\CGameApp.cpp(612,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Source\CGameApp.cpp(636,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Source\CGameApp.cpp(677,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Source\CGameApp.cpp(713,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Source\CGameApp.cpp(715,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Source\CGameApp.cpp(742,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Source\CGameApp.cpp(744,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Source\CGameApp.cpp(888,38): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Source\CGameApp.cpp(889,39): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Source\CGameApp.cpp(890,37): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Source\CGameApp.cpp(891,40): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Source\CGameApp.cpp(894,39): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Source\CGameApp.cpp(895,40): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Source\CGameApp.cpp(896,38): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\Source\CGameApp.cpp(897,41): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  Bullet.cpp
+  BackBuffer.cpp
+  Generating Code...
+BackBuffer.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Game.vcxproj -> C:\Users\Andi\Desktop\SpaceInvaders\SpaceInvaders\d_Game.exe
